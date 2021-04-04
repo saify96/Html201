@@ -1,0 +1,32 @@
+header h1 {
+    text-align: center;
+    background-color: #f8ede3;
+}
+header nav {
+    background-color: #bdd2b6;
+
+    
+}
+header nav ul li {
+    display: inline-block;
+    
+
+}
+
+body {
+    margin: 10%;
+     background-color: #a2b29f;
+
+
+}
+body main {
+    margin: 5%;
+}
+
+
+
+footer {
+    background-color: #f8ede3;
+    text-align: center;
+
+}
